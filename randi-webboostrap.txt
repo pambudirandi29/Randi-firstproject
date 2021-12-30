@@ -2,4 +2,6 @@ rencana buat website
 
 kerangka web
 desain web
+* figma
+* illustrator
 html,css, bootstap
