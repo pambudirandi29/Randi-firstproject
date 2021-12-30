@@ -6,4 +6,5 @@ desain web
 * illustrator
   - photshop
 prototipe
+* mockuo
 html,css, bootstap
