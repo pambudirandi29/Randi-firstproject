@@ -4,5 +4,6 @@ kerangka web
 desain web
 * figma
 * illustrator
+  - photshop
 prototipe
 html,css, bootstap
