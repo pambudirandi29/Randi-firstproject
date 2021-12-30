@@ -1,5 +1,5 @@
 Randi firstproject
 buat website responsive
-buat web toko online
 buat landingpage
 buat web portofolio
+buat web pelajaran
